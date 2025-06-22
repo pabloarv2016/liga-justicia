@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 Este es un mensaje editado completamente desde github.
+
+## cambio posterior al config pull siempre fast-forward
